@@ -1,0 +1,2 @@
+# myterminal
+qtquick
