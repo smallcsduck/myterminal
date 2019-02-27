@@ -1,2 +1,4 @@
 # myterminal
-qtquick
+qtquick 
+QT terminal
+UTF8
