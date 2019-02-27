@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myapp.qml</file>
+        <file>Serial.qml</file>
+    </qresource>
+</RCC>
